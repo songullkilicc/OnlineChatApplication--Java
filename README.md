@@ -38,8 +38,4 @@ JUnit Testing
 ChatClient → GUI and client logic  
 ChatServer → Server logic and message handling  
 
-## Author
 
-Songül Kılıç  
-Computer Science – 5th Semester  
-Kielce University of Technology
